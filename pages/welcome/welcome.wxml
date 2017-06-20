@@ -1,0 +1,8 @@
+<view class="container">
+  <image class="user-avatar" src="/images/avatar/02.png"></image>
+  <text class="user-name">
+    <text style="color:red">Hello</text> asd_____</text>
+  <view class="moto-container" bindtap="onTap">
+    <text class="moto">点击进入微信小程序</text>
+  </view>
+</view>
